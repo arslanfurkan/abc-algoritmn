@@ -1,0 +1,276 @@
+HÖLDER TABLE FUNCTION
+Iterasyon: 1- Best fit: 2.49750453293148- Ortalama fit: 2.03862877227434
+Iterasyon: 2- Best fit: 5.82679657747423- Ortalama fit: 4.15197410013365
+Iterasyon: 3- Best fit: 18.4381074953301- Ortalama fit: 8.12802018769276
+Iterasyon: 4- Best fit: 18.4381074953301- Ortalama fit: 8.76751166685695
+Iterasyon: 5- Best fit: 20.0356446158124- Ortalama fit: 12.3082831073468
+Iterasyon: 6- Best fit: 20.0356446158124- Ortalama fit: 15.8824839883757
+Iterasyon: 7- Best fit: 20.2074537524944- Ortalama fit: 18.0902419378549
+Iterasyon: 8- Best fit: 20.2074537524944- Ortalama fit: 18.1354326886591
+Iterasyon: 9- Best fit: 20.2074537524944- Ortalama fit: 18.1354326886591
+Iterasyon: 10- Best fit: 20.2074537524944- Ortalama fit: 18.1354326886591
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 7.45008737106254- Ortalama fit: 4.97478803636301
+Iterasyon: 2- Best fit: 7.45008737106254- Ortalama fit: 5.09448202430635
+Iterasyon: 3- Best fit: 19.0114369020642- Ortalama fit: 9.97207897054588
+Iterasyon: 4- Best fit: 19.7300382972897- Ortalama fit: 11.5548708091294
+Iterasyon: 5- Best fit: 19.7689968488106- Ortalama fit: 16.24016974733
+Iterasyon: 6- Best fit: 20.1982322275997- Ortalama fit: 19.1095540413695
+Iterasyon: 7- Best fit: 20.1982322275997- Ortalama fit: 19.6526098469925
+Iterasyon: 8- Best fit: 20.1982322275997- Ortalama fit: 19.9198825160997
+Iterasyon: 9- Best fit: 20.199988536127- Ortalama fit: 20.0588071772976
+Iterasyon: 10- Best fit: 20.199988536127- Ortalama fit: 20.1048402167556
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 8.68144652905283- Ortalama fit: 5.13946439512453
+Iterasyon: 2- Best fit: 8.76396320930094- Ortalama fit: 5.27217627553634
+Iterasyon: 3- Best fit: 8.78991035449033- Ortalama fit: 6.30531973247251
+Iterasyon: 4- Best fit: 18.3825683877923- Ortalama fit: 8.97677254553503
+Iterasyon: 5- Best fit: 19.2475474239178- Ortalama fit: 14.6049605515919
+Iterasyon: 6- Best fit: 20.1038891759712- Ortalama fit: 14.804932644556
+Iterasyon: 7- Best fit: 20.1722751460952- Ortalama fit: 16.2235656794803
+Iterasyon: 8- Best fit: 20.2019844601117- Ortalama fit: 16.9591122240749
+Iterasyon: 9- Best fit: 20.2019844601117- Ortalama fit: 17.635228549436
+Iterasyon: 10- Best fit: 20.2050098876326- Ortalama fit: 17.7676581141872
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 8.71558705887701- Ortalama fit: 4.61441372067374
+Iterasyon: 2- Best fit: 16.1402238569521- Ortalama fit: 8.85338641978957
+Iterasyon: 3- Best fit: 16.1402238569521- Ortalama fit: 9.18299182943114
+Iterasyon: 4- Best fit: 16.1402238569521- Ortalama fit: 9.18813230123914
+Iterasyon: 5- Best fit: 16.1402238569521- Ortalama fit: 9.18960520502535
+Iterasyon: 6- Best fit: 16.1402238569521- Ortalama fit: 10.2294707738877
+Iterasyon: 7- Best fit: 18.8658643700029- Ortalama fit: 10.8369114148718
+Iterasyon: 8- Best fit: 18.8658643700029- Ortalama fit: 10.9425369084967
+Iterasyon: 9- Best fit: 18.8658643700029- Ortalama fit: 10.9770810833572
+Iterasyon: 10- Best fit: 18.8658643700029- Ortalama fit: 10.9790096517924
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 8.99493536224793- Ortalama fit: 5.82440799744202
+Iterasyon: 2- Best fit: 14.657482915485- Ortalama fit: 11.0461089820501
+Iterasyon: 3- Best fit: 16.8478481749182- Ortalama fit: 13.2920186267159
+Iterasyon: 4- Best fit: 20.061329859531- Ortalama fit: 16.1115776875012
+Iterasyon: 5- Best fit: 20.2073732264043- Ortalama fit: 17.0579460024028
+Iterasyon: 6- Best fit: 20.2077707944035- Ortalama fit: 20.0245692833145
+Iterasyon: 7- Best fit: 20.2079560930434- Ortalama fit: 20.0463257872479
+Iterasyon: 8- Best fit: 20.2080718055143- Ortalama fit: 20.1528609556586
+Iterasyon: 9- Best fit: 20.2081142604703- Ortalama fit: 20.1988643417412
+Iterasyon: 10- Best fit: 20.2084294813697- Ortalama fit: 20.2077087944804
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 17.3690251245071- Ortalama fit: 5.77818807564649
+Iterasyon: 2- Best fit: 17.3690251245071- Ortalama fit: 7.9161097087841
+Iterasyon: 3- Best fit: 17.3690251245071- Ortalama fit: 9.38112047575172
+Iterasyon: 4- Best fit: 18.8947392381686- Ortalama fit: 10.615913239983
+Iterasyon: 5- Best fit: 19.0049913172665- Ortalama fit: 15.3665679253862
+Iterasyon: 6- Best fit: 19.0204869661276- Ortalama fit: 15.6372663144307
+Iterasyon: 7- Best fit: 19.0207019284853- Ortalama fit: 18.4053011496543
+Iterasyon: 8- Best fit: 20.0486926723243- Ortalama fit: 18.9350928609314
+Iterasyon: 9- Best fit: 20.2076223196355- Ortalama fit: 19.0155002719318
+Iterasyon: 10- Best fit: 20.207644607843- Ortalama fit: 19.1172598562329
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 6.17321752161201- Ortalama fit: 3.91335293693042
+Iterasyon: 2- Best fit: 9.71497998303858- Ortalama fit: 6.25847734572199
+Iterasyon: 3- Best fit: 18.8621704460561- Ortalama fit: 13.3991646498899
+Iterasyon: 4- Best fit: 18.9611952598133- Ortalama fit: 16.2435005739736
+Iterasyon: 5- Best fit: 19.020560387054- Ortalama fit: 18.6916865458908
+Iterasyon: 6- Best fit: 19.020560387054- Ortalama fit: 18.9187118825547
+Iterasyon: 7- Best fit: 19.020560387054- Ortalama fit: 18.9362992647112
+Iterasyon: 8- Best fit: 19.0205670018975- Ortalama fit: 18.9378103611208
+Iterasyon: 9- Best fit: 19.0206055421553- Ortalama fit: 18.937839106953
+Iterasyon: 10- Best fit: 19.0206343959439- Ortalama fit: 18.9378747680273
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 6.24465732360122- Ortalama fit: 3.51353411513229
+Iterasyon: 2- Best fit: 6.63219544885576- Ortalama fit: 4.18082701338279
+Iterasyon: 3- Best fit: 6.63219544885576- Ortalama fit: 4.84098080546272
+Iterasyon: 4- Best fit: 8.76004786012089- Ortalama fit: 5.89119037004493
+Iterasyon: 5- Best fit: 8.76004786012089- Ortalama fit: 6.71179910428374
+Iterasyon: 6- Best fit: 9.41637807411741- Ortalama fit: 7.31380748213449
+Iterasyon: 7- Best fit: 16.1402238569521- Ortalama fit: 12.1021201370127
+Iterasyon: 8- Best fit: 16.1402238569521- Ortalama fit: 13.4626779530832
+Iterasyon: 9- Best fit: 20.0619829168304- Ortalama fit: 15.8108094922122
+Iterasyon: 10- Best fit: 20.0619829168304- Ortalama fit: 17.1481562941589
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 6.15655714314235- Ortalama fit: 3.85578917351802
+Iterasyon: 2- Best fit: 6.42991316427361- Ortalama fit: 5.88464737471559
+Iterasyon: 3- Best fit: 16.1402238569521- Ortalama fit: 7.99040180492492
+Iterasyon: 4- Best fit: 17.1953601231025- Ortalama fit: 11.0312111251041
+Iterasyon: 5- Best fit: 18.7434652391031- Ortalama fit: 16.9849446884622
+Iterasyon: 6- Best fit: 18.7434652391031- Ortalama fit: 17.3244124982817
+Iterasyon: 7- Best fit: 18.7434652391031- Ortalama fit: 17.4549020319742
+Iterasyon: 8- Best fit: 18.7434652391031- Ortalama fit: 17.4826785479749
+Iterasyon: 9- Best fit: 19.4489574679675- Ortalama fit: 17.9870262580412
+Iterasyon: 10- Best fit: 20.0370020819831- Ortalama fit: 18.9358460228024
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 19.9540767679255- Ortalama fit: 8.06215212580223
+Iterasyon: 2- Best fit: 19.9540767679255- Ortalama fit: 11.5870772625862
+Iterasyon: 3- Best fit: 20.2039523573355- Ortalama fit: 16.1416676527236
+Iterasyon: 4- Best fit: 20.2039523573355- Ortalama fit: 17.0325362286505
+Iterasyon: 5- Best fit: 20.2039523573355- Ortalama fit: 17.7117189351425
+Iterasyon: 6- Best fit: 20.2058074769079- Ortalama fit: 18.4394941601506
+Iterasyon: 7- Best fit: 20.2078015038081- Ortalama fit: 19.5932794971409
+Iterasyon: 8- Best fit: 20.2083972490391- Ortalama fit: 19.7208408103791
+Iterasyon: 9- Best fit: 20.2084296240231- Ortalama fit: 19.8242524636641
+Iterasyon: 10- Best fit: 20.2084296240231- Ortalama fit: 19.8638734547541
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 16.7050307843572- Ortalama fit: 7.09635842299302
+Iterasyon: 2- Best fit: 16.7050307843572- Ortalama fit: 11.0838978514623
+Iterasyon: 3- Best fit: 19.0082166010073- Ortalama fit: 14.9183904625313
+Iterasyon: 4- Best fit: 19.0082166010073- Ortalama fit: 14.9183904625313
+Iterasyon: 5- Best fit: 19.2262909190497- Ortalama fit: 17.7825238973711
+Iterasyon: 6- Best fit: 19.8304025291486- Ortalama fit: 17.9775418098821
+Iterasyon: 7- Best fit: 19.8304025291486- Ortalama fit: 17.9810485191685
+Iterasyon: 8- Best fit: 19.8304025291486- Ortalama fit: 18.1428652565504
+Iterasyon: 9- Best fit: 20.1917661164454- Ortalama fit: 18.2186530970069
+Iterasyon: 10- Best fit: 20.1917661164454- Ortalama fit: 18.2186530970069
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 9.03740630238458- Ortalama fit: 7.38877339847887
+Iterasyon: 2- Best fit: 9.08483332351524- Ortalama fit: 8.92261396214581
+Iterasyon: 3- Best fit: 9.09384457880088- Ortalama fit: 9.01922680155391
+Iterasyon: 4- Best fit: 9.0939626172403- Ortalama fit: 9.04690593364278
+Iterasyon: 5- Best fit: 9.09447338442105- Ortalama fit: 9.05969115946039
+Iterasyon: 6- Best fit: 9.09491062013112- Ortalama fit: 9.06325180590511
+Iterasyon: 7- Best fit: 9.09510239966867- Ortalama fit: 9.06355928660213
+Iterasyon: 8- Best fit: 9.09510239966867- Ortalama fit: 9.07036136835793
+Iterasyon: 9- Best fit: 9.09511431704724- Ortalama fit: 9.07061168441865
+Iterasyon: 10- Best fit: 9.0951221620536- Ortalama fit: 9.07062642048303
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 9.05691273362229- Ortalama fit: 4.66895588941482
+Iterasyon: 2- Best fit: 16.1402238569521- Ortalama fit: 9.99414562304871
+Iterasyon: 3- Best fit: 18.5024649707027- Ortalama fit: 12.6252341357475
+Iterasyon: 4- Best fit: 18.5024649707027- Ortalama fit: 15.1503608134737
+Iterasyon: 5- Best fit: 19.2477304259451- Ortalama fit: 17.1662287889566
+Iterasyon: 6- Best fit: 19.4210222628208- Ortalama fit: 18.4425137892389
+Iterasyon: 7- Best fit: 20.107622402669- Ortalama fit: 19.010983096282
+Iterasyon: 8- Best fit: 20.1077427764598- Ortalama fit: 19.2330657018362
+Iterasyon: 9- Best fit: 20.1944874189977- Ortalama fit: 19.2719301475588
+Iterasyon: 10- Best fit: 20.196235086147- Ortalama fit: 19.3115304506473
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 16.6893669199516- Ortalama fit: 8.11761533358443
+Iterasyon: 2- Best fit: 17.2663064678615- Ortalama fit: 12.1853202951917
+Iterasyon: 3- Best fit: 17.4043747010498- Ortalama fit: 14.2562697084592
+Iterasyon: 4- Best fit: 19.2848930121017- Ortalama fit: 15.5754762889269
+Iterasyon: 5- Best fit: 19.9881932999152- Ortalama fit: 16.054978541024
+Iterasyon: 6- Best fit: 20.1051631411455- Ortalama fit: 17.8214328434065
+Iterasyon: 7- Best fit: 20.1379146946921- Ortalama fit: 17.8347081315151
+Iterasyon: 8- Best fit: 20.1587528911502- Ortalama fit: 17.8388757708067
+Iterasyon: 9- Best fit: 20.1845744823002- Ortalama fit: 17.8498126754077
+Iterasyon: 10- Best fit: 20.2065806990431- Ortalama fit: 18.438306836334
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 8.28318082655386- Ortalama fit: 4.35610044912238
+Iterasyon: 2- Best fit: 16.1402238569521- Ortalama fit: 7.52687224821847
+Iterasyon: 3- Best fit: 16.1402238569521- Ortalama fit: 12.6808424359898
+Iterasyon: 4- Best fit: 16.1402238569521- Ortalama fit: 13.5855579433316
+Iterasyon: 5- Best fit: 18.9699123440783- Ortalama fit: 17.7377777842257
+Iterasyon: 6- Best fit: 18.9699123440783- Ortalama fit: 17.7377777842257
+Iterasyon: 7- Best fit: 19.0143905308881- Ortalama fit: 18.354835035192
+Iterasyon: 8- Best fit: 19.6971796395473- Ortalama fit: 18.613500192916
+Iterasyon: 9- Best fit: 20.1255882751319- Ortalama fit: 19.2218962744589
+Iterasyon: 10- Best fit: 20.1255882751319- Ortalama fit: 19.2218962744589
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 16.1402238569521- Ortalama fit: 6.97520891345223
+Iterasyon: 2- Best fit: 16.1402238569521- Ortalama fit: 10.8086604654787
+Iterasyon: 3- Best fit: 19.9644907030515- Ortalama fit: 15.9689958474772
+Iterasyon: 4- Best fit: 19.9644907030515- Ortalama fit: 16.1993894041372
+Iterasyon: 5- Best fit: 19.9644907030515- Ortalama fit: 16.5481513196949
+Iterasyon: 6- Best fit: 19.9644907030515- Ortalama fit: 17.8828258091138
+Iterasyon: 7- Best fit: 19.9975122446384- Ortalama fit: 17.8981360269356
+Iterasyon: 8- Best fit: 20.1505022476535- Ortalama fit: 17.9392511153752
+Iterasyon: 9- Best fit: 20.189453398444- Ortalama fit: 17.9646351120602
+Iterasyon: 10- Best fit: 20.2082928467157- Ortalama fit: 18.5680081644448
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 10.3875930307637- Ortalama fit: 8.76778467347715
+Iterasyon: 2- Best fit: 19.4070138120618- Ortalama fit: 14.5471884834732
+Iterasyon: 3- Best fit: 19.4562539035494- Ortalama fit: 16.860486073441
+Iterasyon: 4- Best fit: 19.4562539035494- Ortalama fit: 17.9487748146204
+Iterasyon: 5- Best fit: 20.2064874213358- Ortalama fit: 18.1857131082945
+Iterasyon: 6- Best fit: 20.2065694244785- Ortalama fit: 18.2736170150112
+Iterasyon: 7- Best fit: 20.2065694244785- Ortalama fit: 18.2783331930726
+Iterasyon: 8- Best fit: 20.2065694244785- Ortalama fit: 18.5583419586268
+Iterasyon: 9- Best fit: 20.2068920700129- Ortalama fit: 18.6140126427274
+Iterasyon: 10- Best fit: 20.2068920700129- Ortalama fit: 18.6165450165824
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 2.72872815192493- Ortalama fit: 2.39289985285356
+Iterasyon: 2- Best fit: 6.81373762182204- Ortalama fit: 3.90380842836499
+Iterasyon: 3- Best fit: 16.9447670058397- Ortalama fit: 7.72738065780374
+Iterasyon: 4- Best fit: 17.1169158334434- Ortalama fit: 8.52949328542754
+Iterasyon: 5- Best fit: 19.1239640182175- Ortalama fit: 10.6494611891574
+Iterasyon: 6- Best fit: 19.1239640182175- Ortalama fit: 10.8615187928049
+Iterasyon: 7- Best fit: 19.1239640182175- Ortalama fit: 10.8940350307349
+Iterasyon: 8- Best fit: 19.1239640182175- Ortalama fit: 10.8960891450222
+Iterasyon: 9- Best fit: 19.1239640182175- Ortalama fit: 10.9103718079616
+Iterasyon: 10- Best fit: 19.1239640182175- Ortalama fit: 10.9111648131456
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 5.4925185497308- Ortalama fit: 2.56257269093154
+Iterasyon: 2- Best fit: 8.61123098650899- Ortalama fit: 6.07643872815335
+Iterasyon: 3- Best fit: 17.267402696712- Ortalama fit: 14.9526963534242
+Iterasyon: 4- Best fit: 18.0206944663954- Ortalama fit: 15.6120327672926
+Iterasyon: 5- Best fit: 18.7516329983518- Ortalama fit: 17.1898274795441
+Iterasyon: 6- Best fit: 19.3192333654875- Ortalama fit: 17.4865214573389
+Iterasyon: 7- Best fit: 20.1455073667413- Ortalama fit: 17.6658363344469
+Iterasyon: 8- Best fit: 20.1577647472187- Ortalama fit: 18.2465897548756
+Iterasyon: 9- Best fit: 20.1577647472187- Ortalama fit: 18.3233741124996
+Iterasyon: 10- Best fit: 20.1577647472187- Ortalama fit: 18.4121824698474
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 3.53708410521121- Ortalama fit: 2.64508315205082
+Iterasyon: 2- Best fit: 15.1652579594758- Ortalama fit: 8.51878203205205
+Iterasyon: 3- Best fit: 16.7430925810922- Ortalama fit: 9.65790541602822
+Iterasyon: 4- Best fit: 18.9538018719558- Ortalama fit: 12.7032412087728
+Iterasyon: 5- Best fit: 18.9538018719558- Ortalama fit: 15.1589423328913
+Iterasyon: 6- Best fit: 19.9709895171862- Ortalama fit: 15.489221701396
+Iterasyon: 7- Best fit: 20.1189457238841- Ortalama fit: 17.2446130950812
+Iterasyon: 8- Best fit: 20.1434388681169- Ortalama fit: 17.4837164104785
+Iterasyon: 9- Best fit: 20.1453715970943- Ortalama fit: 18.9194043413291
+Iterasyon: 10- Best fit: 20.1454272729598- Ortalama fit: 18.9194154765022
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 8.92383383337397- Ortalama fit: 5.0572141443015
+Iterasyon: 2- Best fit: 18.9714630098733- Ortalama fit: 12.002387513243
+Iterasyon: 3- Best fit: 18.9714630098733- Ortalama fit: 15.3105672209034
+Iterasyon: 4- Best fit: 19.1291209997737- Ortalama fit: 16.4617904878038
+Iterasyon: 5- Best fit: 20.1271649948065- Ortalama fit: 18.5052946183494
+Iterasyon: 6- Best fit: 20.1975095908027- Ortalama fit: 19.1502468927176
+Iterasyon: 7- Best fit: 20.2031330202508- Ortalama fit: 19.1561024024818
+Iterasyon: 8- Best fit: 20.2040827240037- Ortalama fit: 19.2440483372603
+Iterasyon: 9- Best fit: 20.2083334085276- Ortalama fit: 19.6103367569277
+Iterasyon: 10- Best fit: 20.2083334085276- Ortalama fit: 19.6180273085024
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 8.41256404944754- Ortalama fit: 4.6990424987585
+Iterasyon: 2- Best fit: 8.41501091916544- Ortalama fit: 5.7289766837045
+Iterasyon: 3- Best fit: 9.44696853655962- Ortalama fit: 6.56963771936501
+Iterasyon: 4- Best fit: 9.44696853655962- Ortalama fit: 7.75537385951194
+Iterasyon: 5- Best fit: 16.1402238569521- Ortalama fit: 10.2617197618813
+Iterasyon: 6- Best fit: 18.2118203756079- Ortalama fit: 10.7215963516455
+Iterasyon: 7- Best fit: 19.1847828222622- Ortalama fit: 10.921427709387
+Iterasyon: 8- Best fit: 19.2739680610109- Ortalama fit: 10.9930011068104
+Iterasyon: 9- Best fit: 19.4073491244761- Ortalama fit: 11.0875675435072
+Iterasyon: 10- Best fit: 20.1075826114506- Ortalama fit: 11.2282027640418
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 6.31387714964997- Ortalama fit: 3.98894277968698
+Iterasyon: 2- Best fit: 9.59035960887846- Ortalama fit: 6.43169591301392
+Iterasyon: 3- Best fit: 9.68051370003986- Ortalama fit: 7.66514593066193
+Iterasyon: 4- Best fit: 9.68051370003986- Ortalama fit: 8.91632354689111
+Iterasyon: 5- Best fit: 16.0579631185559- Ortalama fit: 10.3901258828217
+Iterasyon: 6- Best fit: 18.9819657472166- Ortalama fit: 15.7122584755387
+Iterasyon: 7- Best fit: 20.1376893581074- Ortalama fit: 18.5274049046474
+Iterasyon: 8- Best fit: 20.1376893581074- Ortalama fit: 18.5274049046474
+Iterasyon: 9- Best fit: 20.1610488627418- Ortalama fit: 19.0210340328944
+Iterasyon: 10- Best fit: 20.1610488627418- Ortalama fit: 19.0968234143301
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 8.25321833644487- Ortalama fit: 4.1446539014581
+Iterasyon: 2- Best fit: 13.4075961670336- Ortalama fit: 8.1903836148065
+Iterasyon: 3- Best fit: 19.7133215501593- Ortalama fit: 9.83621070402441
+Iterasyon: 4- Best fit: 20.1171259563452- Ortalama fit: 15.6111833810969
+Iterasyon: 5- Best fit: 20.2038044030543- Ortalama fit: 17.1870089182587
+Iterasyon: 6- Best fit: 20.2056241672293- Ortalama fit: 17.2019657759739
+Iterasyon: 7- Best fit: 20.208365316062- Ortalama fit: 19.6899633707288
+Iterasyon: 8- Best fit: 20.2084030253633- Ortalama fit: 19.7206654054753
+Iterasyon: 9- Best fit: 20.2084030253633- Ortalama fit: 19.8107398775282
+Iterasyon: 10- Best fit: 20.2084030253633- Ortalama fit: 19.8130347966815
+---------------------------------------------------------------------------------------------------
+Iterasyon: 1- Best fit: 3.89960817118572- Ortalama fit: 2.71375359204313
+Iterasyon: 2- Best fit: 8.73701751103232- Ortalama fit: 6.83442686857844
+Iterasyon: 3- Best fit: 12.7402932774847- Ortalama fit: 10.3502347803525
+Iterasyon: 4- Best fit: 18.8956361493991- Ortalama fit: 13.4209525244128
+Iterasyon: 5- Best fit: 20.1995388621193- Ortalama fit: 18.3050175941034
+Iterasyon: 6- Best fit: 20.2007815929692- Ortalama fit: 18.8787269008137
+Iterasyon: 7- Best fit: 20.2014828990197- Ortalama fit: 18.9714502811885
+Iterasyon: 8- Best fit: 20.2069249403605- Ortalama fit: 19.1417988578678
+Iterasyon: 9- Best fit: 20.2069249403605- Ortalama fit: 19.1422923872703
+Iterasyon: 10- Best fit: 20.2069905815536- Ortalama fit: 19.1660287543839
+---------------------------------------------------------------------------------------------------
